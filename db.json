@@ -1,0 +1,39 @@
+{
+  "posts": [
+    {
+      "id": 3,
+      "name": "sush",
+      "email": "EdRT6aVfZJnFYJB@gmail.com",
+      "mobile": "sushdcsacas",
+      "address": "sush",
+      "services": "EdRT6aVfZJnFYJB@gmail.com"
+    }
+  ],
+  "signup": [
+    {
+      "name": "",
+      "email": "",
+      "mobile": "",
+      "password": "",
+      "id": 1
+    },
+    {
+      "name": "sushdcsacas",
+      "email": "kjnabisudxi@uhs.erdg",
+      "mobile": "sushdcsacas",
+      "password": "123",
+      "id": 2
+    },
+    {
+      "name": "sush",
+      "email": "asd@ss.s",
+      "mobile": "sushdcsacas",
+      "password": "123",
+      "id": 3
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
